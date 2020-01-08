@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="com.gotransitapp.raleigh" version="1.2.3">
+<widget xmlns="http://www.w3.org/ns/widgets" id="com.gotransitapp.raleigh" version="1.2.4">
     <name>Go Raleigh</name>
     <description>Real Time Tracking of the Buses for Raleigh, NC</description>
     <author email="line72@line72.net" href="http://line72.net">
